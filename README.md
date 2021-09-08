@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![github badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)
+![github badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white) ![react badge](https://img.shields.io/badge/react-181717?style=flat&logo=React&logoColor=white) 
 
 <!--
 **nomore12/nomore12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
