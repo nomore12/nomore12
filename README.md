@@ -2,6 +2,8 @@
 
 ![github badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white) ![react badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white) ![redux badge](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white) ![js badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![ts badge](https://img.shields.io/badge/TypesSript-3178C6?style=flat&logo=JavaScript&logoColor=white) ![styled-components badge](https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white) ![material-ui badge](https://img.shields.io/badge/Material-UI-0081CB?style=flat&logo=Material-UI&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomore12)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **nomore12/nomore12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
