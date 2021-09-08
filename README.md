@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![github badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white) ![react badge](https://img.shields.io/badge/react-61DAFB?style=flat&logo=React&logoColor=white) ![js badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![ts badge](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=JavaScript&logoColor=white)
+![github badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white) ![react badge](https://img.shields.io/badge/react-61DAFB?style=flat&logo=React&logoColor=white) ![js badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![ts badge](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=JavaScript&logoColor=white) ![styled-components badge](https://img.shields.io/badge/styledComponents-DB7093?style=flat&logo=styled-components&logoColor=white)
 
 
 
